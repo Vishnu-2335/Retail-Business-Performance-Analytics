@@ -1,0 +1,151 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice
+P0001,Full HD TV A1,Electronics,Televisions,56481.05,69234.21
+P0002,QLED Smart TV B2,Electronics,Televisions,51831.84,75177.76
+P0003,Smart LED TV C3,Electronics,Televisions,11335.72,14374.7
+P0004,QLED Smart TV D4,Electronics,Televisions,6544.82,10619.36
+P0005,Smart LED TV E5,Electronics,Televisions,3322.23,4719.27
+P0006,Full HD TV A6,Electronics,Televisions,26192.21,39996.37
+P0007,Full HD TV B7,Electronics,Televisions,20107.81,26638.81
+P0008,QLED Smart TV C8,Electronics,Televisions,41916.89,76009.95
+P0009,Budget Smartphone A1,Electronics,Mobile Phones,26886.09,46428.19
+P0010,Budget Smartphone B2,Electronics,Mobile Phones,3239.84,4404.44
+P0011,Premium Smartphone C3,Electronics,Mobile Phones,9305.33,14902.07
+P0012,Premium Smartphone D4,Electronics,Mobile Phones,37762.71,50139.94
+P0013,5G Smartphone E5,Electronics,Mobile Phones,25344.32,36179.73
+P0014,Budget Smartphone A6,Electronics,Mobile Phones,7613.27,9246.34
+P0015,Budget Smartphone B7,Electronics,Mobile Phones,36366.37,61606.59
+P0016,Budget Smartphone C8,Electronics,Mobile Phones,52565.61,63665.16
+P0017,Ultrabook A1,Electronics,Laptops,39781.99,61469.2
+P0018,Business Laptop B2,Electronics,Laptops,41521.22,54876.34
+P0019,Student Laptop C3,Electronics,Laptops,8737.9,12552.69
+P0020,Student Laptop D4,Electronics,Laptops,13134.58,21602.44
+P0021,Ultrabook E5,Electronics,Laptops,29771.48,48777.16
+P0022,Ultrabook A6,Electronics,Laptops,7399.19,9422.92
+P0023,Student Laptop B7,Electronics,Laptops,30666.16,36481.47
+P0024,Student Laptop C8,Electronics,Laptops,33851.12,44917.11
+P0025,Soundbar A1,Electronics,Audio,35089.57,45527.55
+P0026,Earbuds B2,Electronics,Audio,29477.79,43098.98
+P0027,Bluetooth Speaker C3,Electronics,Audio,44142.48,76661.15
+P0028,Soundbar D4,Electronics,Audio,43224.87,52004.72
+P0029,Soundbar E5,Electronics,Audio,43564.65,51647.41
+P0030,Earbuds A6,Electronics,Audio,53305.15,76019.78
+P0031,Wireless Headphones B7,Electronics,Audio,36028.78,52596.38
+P0032,Power Bank A1,Electronics,Accessories,12531.14,18113.48
+P0033,USB-C Cable B2,Electronics,Accessories,49038.67,77394.21
+P0034,Wireless Charger C3,Electronics,Accessories,41048.31,70426.35
+P0035,Power Bank D4,Electronics,Accessories,21894.27,29153.55
+P0036,Wireless Charger E5,Electronics,Accessories,46554.33,74177.87
+P0037,Wireless Charger A6,Electronics,Accessories,53801.63,78938.72
+P0038,USB-C Cable B7,Electronics,Accessories,12317.6,22362.17
+P0039,Mixer Grinder A1,Home & Kitchen,Kitchen Appliances,10707.23,14732.95
+P0040,Electric Kettle B2,Home & Kitchen,Kitchen Appliances,8430.75,10664.54
+P0041,Electric Kettle C3,Home & Kitchen,Kitchen Appliances,9046.98,11511.46
+P0042,Microwave Oven D4,Home & Kitchen,Kitchen Appliances,24254.72,29579.63
+P0043,Microwave Oven E5,Home & Kitchen,Kitchen Appliances,18264.07,22827.12
+P0044,Microwave Oven A6,Home & Kitchen,Kitchen Appliances,16868.88,20212.79
+P0045,Microwave Oven B7,Home & Kitchen,Kitchen Appliances,8791.79,14353.88
+P0046,Bookshelf A1,Home & Kitchen,Furniture,13697.77,23401.28
+P0047,Bookshelf B2,Home & Kitchen,Furniture,8332.57,11987.07
+P0048,Study Table C3,Home & Kitchen,Furniture,17695.33,29675.72
+P0049,Study Table D4,Home & Kitchen,Furniture,460.5,643.36
+P0050,Bookshelf E5,Home & Kitchen,Furniture,9829.28,14006.13
+P0051,Bookshelf A6,Home & Kitchen,Furniture,13874.86,23736.31
+P0052,Study Table B7,Home & Kitchen,Furniture,3005.28,4684.91
+P0053,Cookware Set A1,Home & Kitchen,Cookware,15528.93,23380.0
+P0054,Non-stick Pan B2,Home & Kitchen,Cookware,13837.65,17619.85
+P0055,Non-stick Pan C3,Home & Kitchen,Cookware,17114.43,26326.12
+P0056,Frying Pan D4,Home & Kitchen,Cookware,14996.73,24430.33
+P0057,Non-stick Pan E5,Home & Kitchen,Cookware,12896.65,21084.61
+P0058,Pressure Cooker A6,Home & Kitchen,Cookware,17092.6,27105.29
+P0059,Pressure Cooker B7,Home & Kitchen,Cookware,16620.19,24743.52
+P0060,Wall Clock A1,Home & Kitchen,Home Decor,2951.03,4187.79
+P0061,Decorative Vase B2,Home & Kitchen,Home Decor,15710.91,22102.15
+P0062,Decorative Vase C3,Home & Kitchen,Home Decor,20592.23,26039.41
+P0063,Table Lamp D4,Home & Kitchen,Home Decor,17564.49,22222.83
+P0064,Decorative Vase E5,Home & Kitchen,Home Decor,1257.43,1797.31
+P0065,Decorative Vase A6,Home & Kitchen,Home Decor,2172.39,3429.74
+P0066,Wall Clock B7,Home & Kitchen,Home Decor,5332.9,7801.86
+P0067,Men's T-Shirt A1,Clothing,Men's Clothing,4895.43,6357.9
+P0068,Men's T-Shirt B2,Clothing,Men's Clothing,4447.52,5944.75
+P0069,Men's Jeans C3,Clothing,Men's Clothing,4558.34,7177.2
+P0070,Men's Jacket D4,Clothing,Men's Clothing,2675.18,4654.63
+P0071,Men's Jacket E5,Clothing,Men's Clothing,1820.39,2211.55
+P0072,Men's Jacket A6,Clothing,Men's Clothing,3021.38,3718.64
+P0073,Men's Jeans B7,Clothing,Men's Clothing,5473.35,7179.47
+P0074,Women's Jeans A1,Clothing,Women's Clothing,5191.03,6726.61
+P0075,Women's Jeans B2,Clothing,Women's Clothing,6231.21,7788.99
+P0076,Women's Jacket C3,Clothing,Women's Clothing,2588.56,3661.03
+P0077,Women's Jeans D4,Clothing,Women's Clothing,4740.86,6178.38
+P0078,Women's Jeans E5,Clothing,Women's Clothing,546.83,909.72
+P0079,Women's Jeans A6,Clothing,Women's Clothing,5246.63,7106.08
+P0080,Women's Jeans B7,Clothing,Women's Clothing,945.11,1227.09
+P0081,Kids Jacket A1,Clothing,Kids' Clothing,1050.32,1715.72
+P0082,Kids Jeans B2,Clothing,Kids' Clothing,3377.41,5613.98
+P0083,Kids Dress C3,Clothing,Kids' Clothing,1097.5,1436.28
+P0084,Kids Dress D4,Clothing,Kids' Clothing,957.87,1332.31
+P0085,Kids T-Shirt E5,Clothing,Kids' Clothing,386.39,508.67
+P0086,Kids T-Shirt A6,Clothing,Kids' Clothing,1688.91,2008.33
+P0087,Kids T-Shirt B7,Clothing,Kids' Clothing,1643.0,2599.96
+P0088,Sandals A1,Clothing,Footwear,4859.14,7414.77
+P0089,Sports Shoes B2,Clothing,Footwear,5155.98,7419.82
+P0090,Sandals C3,Clothing,Footwear,5031.45,6708.36
+P0091,Running Shoes D4,Clothing,Footwear,4121.96,5979.07
+P0092,Sports Shoes E5,Clothing,Footwear,2152.49,3368.47
+P0093,Sports Shoes A6,Clothing,Footwear,3658.34,4565.23
+P0094,Running Shoes B7,Clothing,Footwear,4813.8,7178.77
+P0095,Cooking Oil A1,Grocery,Staples,438.09,587.35
+P0096,Sugar B2,Grocery,Staples,1102.07,1384.91
+P0097,Sugar C3,Grocery,Staples,763.74,1140.16
+P0098,Cooking Oil D4,Grocery,Staples,944.94,1233.81
+P0099,Sugar E5,Grocery,Staples,394.86,631.26
+P0100,Sugar A6,Grocery,Staples,77.36,117.96
+P0101,Rice B7,Grocery,Staples,597.84,775.19
+P0102,Namkeen A1,Grocery,Snacks,759.0,1282.31
+P0103,Chocolate B2,Grocery,Snacks,407.66,500.73
+P0104,Chips C3,Grocery,Snacks,100.44,152.38
+P0105,Namkeen D4,Grocery,Snacks,626.68,881.18
+P0106,Chocolate E5,Grocery,Snacks,595.03,817.37
+P0107,Chocolate A6,Grocery,Snacks,1031.67,1494.3
+P0108,Namkeen B7,Grocery,Snacks,665.75,1123.58
+P0109,Tea A1,Grocery,Beverages,510.45,675.13
+P0110,Juice B2,Grocery,Beverages,710.59,1053.9
+P0111,Coffee C3,Grocery,Beverages,648.75,912.62
+P0112,Coffee D4,Grocery,Beverages,669.86,985.76
+P0113,Juice E5,Grocery,Beverages,66.61,100.32
+P0114,Soft Drink A6,Grocery,Beverages,170.34,252.55
+P0115,Soft Drink B7,Grocery,Beverages,192.59,343.15
+P0116,Instant Noodles A1,Grocery,Packaged Food,697.43,1210.15
+P0117,Instant Noodles B2,Grocery,Packaged Food,75.33,130.63
+P0118,Instant Noodles C3,Grocery,Packaged Food,1194.14,1499.75
+P0119,Instant Noodles D4,Grocery,Packaged Food,222.73,400.63
+P0120,Breakfast Cereal E5,Grocery,Packaged Food,120.99,207.32
+P0121,Pasta A6,Grocery,Packaged Food,683.18,1019.45
+P0122,Pasta B7,Grocery,Packaged Food,503.09,777.56
+P0123,Face Cream A1,Personal Care,Skincare,983.54,1666.93
+P0124,Sunscreen B2,Personal Care,Skincare,1327.7,1841.85
+P0125,Face Wash C3,Personal Care,Skincare,1128.95,1783.65
+P0126,Face Cream D4,Personal Care,Skincare,2561.06,3082.2
+P0127,Sunscreen E5,Personal Care,Skincare,1946.99,2328.63
+P0128,Moisturizer A6,Personal Care,Skincare,1375.84,1655.17
+P0129,Moisturizer B7,Personal Care,Skincare,2256.97,3285.82
+P0130,Shampoo A1,Personal Care,Haircare,2151.56,3317.98
+P0131,Hair Serum B2,Personal Care,Haircare,3940.05,4780.68
+P0132,Hair Serum C3,Personal Care,Haircare,3039.73,4869.55
+P0133,Conditioner D4,Personal Care,Haircare,2892.93,4058.64
+P0134,Hair Oil E5,Personal Care,Haircare,2770.12,3581.9
+P0135,Hair Serum A6,Personal Care,Haircare,1914.01,3355.04
+P0136,Conditioner B7,Personal Care,Haircare,1284.89,1702.4
+P0137,Body Wash A1,Personal Care,Bath & Body,2550.08,3493.25
+P0138,Body Wash B2,Personal Care,Bath & Body,3214.46,3897.08
+P0139,Deodorant C3,Personal Care,Bath & Body,591.33,731.65
+P0140,Body Lotion D4,Personal Care,Bath & Body,2167.94,3205.72
+P0141,Soap E5,Personal Care,Bath & Body,2004.24,3000.36
+P0142,Body Lotion A6,Personal Care,Bath & Body,547.09,773.2
+P0143,Body Lotion B7,Personal Care,Bath & Body,2920.65,4198.9
+P0144,Razor A1,Personal Care,Grooming,720.16,1037.07
+P0145,Shaving Kit B2,Personal Care,Grooming,441.82,543.23
+P0146,Trimmer C3,Personal Care,Grooming,2744.04,3309.4
+P0147,Razor D4,Personal Care,Grooming,2990.01,4084.63
+P0148,Shaving Kit E5,Personal Care,Grooming,2912.56,3430.41
+P0149,Beard Oil A6,Personal Care,Grooming,3317.06,4294.7
+P0150,Trimmer B7,Personal Care,Grooming,2546.57,4199.75

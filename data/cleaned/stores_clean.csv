@@ -1,0 +1,26 @@
+StoreID,StoreName,City,State,Region,StoreType
+S001,RetailCo Guwahati 1,Guwahati,Assam,East,Mall
+S002,RetailCo Kolkata 2,Kolkata,West Bengal,East,Neighborhood
+S003,RetailCo Delhi 3,Delhi,Delhi,North,High Street
+S004,RetailCo Lucknow 4,Lucknow,Uttar Pradesh,North,Neighborhood
+S005,RetailCo Ahmedabad 5,Ahmedabad,Gujarat,West,Neighborhood
+S006,RetailCo Chandigarh 6,Chandigarh,Chandigarh,North,Neighborhood
+S007,RetailCo Chennai 7,Chennai,Tamil Nadu,South,High Street
+S008,RetailCo Pune 8,Pune,Maharashtra,West,High Street
+S009,RetailCo Coimbatore 9,Coimbatore,Tamil Nadu,South,Neighborhood
+S010,RetailCo Nagpur 10,Nagpur,Maharashtra,West,Mall
+S011,RetailCo Coimbatore 11,Coimbatore,Tamil Nadu,South,High Street
+S012,RetailCo Nagpur 12,Nagpur,Maharashtra,West,Mall
+S013,RetailCo Coimbatore 13,Coimbatore,Tamil Nadu,South,Mall
+S014,RetailCo Ahmedabad 14,Ahmedabad,Gujarat,West,Neighborhood
+S015,RetailCo Noida 15,Noida,Uttar Pradesh,North,Neighborhood
+S016,RetailCo Kochi 16,Kochi,Kerala,South,Neighborhood
+S017,RetailCo Kochi 17,Kochi,Kerala,South,High Street
+S018,RetailCo Kochi 18,Kochi,Kerala,South,Mall
+S019,RetailCo Chennai 19,Chennai,Tamil Nadu,South,Neighborhood
+S020,RetailCo Jaipur 20,Jaipur,Rajasthan,North,Neighborhood
+S021,RetailCo Coimbatore 21,Coimbatore,Tamil Nadu,South,High Street
+S022,RetailCo Ranchi 22,Ranchi,Jharkhand,East,High Street
+S023,RetailCo Pune 23,Pune,Maharashtra,West,Mall
+S024,RetailCo Coimbatore 24,Coimbatore,Tamil Nadu,South,Mall
+S025,RetailCo Kolkata 25,Kolkata,West Bengal,East,High Street

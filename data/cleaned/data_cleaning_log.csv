@@ -1,0 +1,8 @@
+Dataset,Column,Issue,Rows_Affected,Action,Reason
+Customers,City,Missing values,30,Replaced missing City values with 'Unknown',Preserve customer records without inventing location data
+Products,ProductName,Whitespace / formatting,10,Removed leading and trailing whitespace,Standardize text values for analysis and joins
+Products,Category,Inconsistent category names/capitalization,8,Standardized category labels,Ensure consistent grouping in SQL and Power BI
+Products,UnitPrice,Potential statistical outliers,13,No automatic removal,Statistical outliers are not necessarily data errors
+Transactions,Entire row,Duplicate transaction records,5,"Removed exact duplicate rows, retaining the first occurrence","Prevent duplicate sales from inflating revenue, cost and profit"
+Transactions,Quantity,Negative quantities,5,Retained negative quantities as return transactions,Negative sales quantities can represent legitimate product returns
+Transactions,Discount,Missing discount values,15,Replaced missing discounts with 0,A missing discount is treated as no discount for this analysis
