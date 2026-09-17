@@ -73,7 +73,7 @@ The dashboard contains five pages:
 ## Project Structure
 
 ```text
-Retail-Business-Analytics/
+Retail-Business-Performance-Analytics/
 │
 ├── data/
 │   ├── raw/
@@ -89,5 +89,12 @@ Retail-Business-Analytics/
 │
 ├── powerbi/
 │   └── Retail_Business_Analytics.pbix
+│
+├── screenshots/
+│   ├── executive-overview.png
+│   ├── product-category.png
+│   ├── customer-analysis.png
+│   ├── regional-analysis.png
+│   └── time-analysis.png
 │
 └── README.md
